@@ -1,0 +1,12 @@
+body {background-image: url("modes_padomi.jpg");}
+
+h1 {font-size: 28px;
+    text-align: center;
+    color:rgb(255, 246, 234)}
+    
+    p.teksts {font-size: 30px;
+        text-align: center;
+        color:rgb(255, 248, 239)}
+    
+    div {width:200px;
+        background-color: rgb(44, 39, 37);}
